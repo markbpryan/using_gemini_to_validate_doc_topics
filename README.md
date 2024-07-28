@@ -5,3 +5,4 @@ Make use of the multimodal capabilities of Gemini to validate the correctness of
 Uses:
 * Gemini
 * Webdriver
+* URLs for doc topics being updated
